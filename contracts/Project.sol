@@ -1,6 +1,20 @@
-// SPDX-License-Identifier: GPL-3.0
+// SPDX-License-Identifier: MIT
+pragma solidity >=0.5.0 <0.9.0;
 
-pragma solidity >=0.8.2 <0.9.0;
+contract Identity {
+    string Project;
+    string Description;
 
-contract Stablecoin-on-Core {
+    constructor() {
+        Project = "Stablecoin-on-Core";
+        Description = unicode"Stablecoin on Core is a decentralized digital currency built on the Core Blockchain, designed to maintain a stable value pegged to fiat. It uses smart contracts, collateral reserves, and oracles to ensure transparency, stability, and secure on-chain transactions.";
+    }
+    
+    function showProject() public view returns (string memory) {
+        return Project;
+    }
+    
+    function showDescription() public view returns (string memory) {
+        return Description; 
+    }
 }
