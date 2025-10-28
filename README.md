@@ -7,7 +7,7 @@ The project ensures **price stability, transparency, and decentralization** by c
 
 The goal is to create a **trust-minimized stable asset** that powers on-chain payments, DeFi protocols, and ecosystem dApps within the Core blockchain network.
 
----
+--
 
 ## 🚀 Key Features
 
