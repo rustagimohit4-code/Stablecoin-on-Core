@@ -18,7 +18,7 @@ The goal is to create a **trust-minimized stable asset** that powers on-chain pa
 * 🌍 **Multi-Wallet Support** – Compatible with MetaMask, WalletConnect, and Core wallets.
 * 📊 **Dashboard Integration** – Real-time peg status, reserve ratio, and transaction volume.
 
----
+
 
 ## 🏗️ Tech Stack
 
@@ -151,4 +151,9 @@ Fork the repository, create a branch, and submit a pull request.
 ## 📊 Vision Statement
 
 > “A decentralized, transparent, and stable digital asset for the Core blockchain economy.”
-> Enabling seamless payments, DeFi transactions, and financial inclusion through trustless stability.
+> Enabling seamless payments, DeFi transactions, and financial inclusion through tr
+
+<img width="1470" height="956" alt="Screenshot 2025-11-01 at 12 01 48 AM" src="https://github.com/user-attachments/assets/dfe8affd-1aaf-46d1-a713-15d9ab935785" />
+ustless stability.
+>
+> 
